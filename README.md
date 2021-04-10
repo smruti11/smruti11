@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smruti11
-- 👀 I’m interested in fullstack development (Javascript)
-- 🌱 I’m currently learning MERN stack
+<!-- 👀 I’m interested in fullstack development (Javascript)
+<!-- 🌱 I’m currently learning MERN stack
 <!-- 💞️ I’m looking to collaborate on MERN Projects -->
 <!-- 📫 How to reach me ... -> smruti11sagarika@gmail.com-->
 
